@@ -1,11 +1,16 @@
-<http://data.vlaanderen.be/id/concept/Fractietype/Onafhankelijk> a <http://mu.semte.ch/vocabularies/ext/Fractietype>,
-     <http://www.w3.org/2004/02/skos/core#Concept>;
-   <http://mu.semte.ch/vocabularies/core/uuid> "fb2f9ed1-e8bc-432c-ac53-827566b863d9";
-   <http://www.w3.org/2004/02/skos/core#prefLabel> "Onafhankelijk";
-   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/Fractietype> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://data.vlaanderen.be/id/concept/Fractietype/> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix ns3:	<http://mu.semte.ch/vocabularies/core/> .
+@prefix ns4:	<http://data.vlaanderen.be/id/conceptscheme/> .
 
-<http://data.vlaanderen.be/id/concept/Fractietype/Samenwerkingsverband> a <http://mu.semte.ch/vocabularies/ext/Fractietype>,
-     <http://www.w3.org/2004/02/skos/core#Concept>;
-   <http://mu.semte.ch/vocabularies/core/uuid> "260d6c7e-fbd4-4849-af26-e828001bc28d";
-   <http://www.w3.org/2004/02/skos/core#prefLabel> "Samenwerkingsverband";
-   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.vlaanderen.be/id/conceptscheme/Fractietype> .
+ns1:Samenwerkingsverband
+	rdf:type	skos:Concept ;
+	ns3:uuid	"260d6c7e-fbd4-4849-af26-e828001bc28d" ;
+	skos:prefLabel	"Samenwerkingsverband" ;
+	skos:topConceptOf	ns4:Fractietype .
+ns1:Onafhankelijk
+	rdf:type	skos:Concept ;
+	ns3:uuid	"fb2f9ed1-e8bc-432c-ac53-827566b863d9" ;
+	skos:prefLabel	"Onafhankelijk" ;
+	skos:topConceptOf	ns4:Fractietype .

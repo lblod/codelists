@@ -142,7 +142,7 @@ ns4:f6bbf871850b72ca5ebff11baae00cab3fff2442d0524045d85959a88b6f0ff7
 ns4:fea224e435c3466811b2dc38e9f72cd0316ccc92b1168d1c394da30fe010807e
 	rdf:type	skos:Concept ;
 	ns2:uuid	"fea224e435c3466811b2dc38e9f72cd0316ccc92b1168d1c394da30fe010807e" ;
-	skos:prefLabel	"Verslag lokale berokkenheid eredienstbesturen" ;
+	skos:prefLabel	"Verslag lokale betrokkenheid eredienstbesturen" ;
 	skos:topConceptOf	ns3:BesluitType .
 ns4:e4e5df5b3cb4210fe2f5f385350df1d325a09b71941a1785b2532dbf363a79da
 	rdf:type	skos:Concept ;

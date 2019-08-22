@@ -1,42 +1,42 @@
-@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix ns1:	<http://data.vlaanderen.be/id/conceptscheme/> .
-@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
-@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
-@prefix ns4:	<http://purl.org/dc/terms/> .
-@prefix ns5:	<http://mu.semte.ch/vocabularies/core/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1: <http://data.vlaanderen.be/id/conceptscheme/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns4: <http://purl.org/dc/terms/> .
+@prefix ns5: <http://mu.semte.ch/vocabularies/core/> .
 
 ns1:BestuurseenheidClassificatieCode
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-03-21"^^xsd:date ;
-	ns5:uuid	"8d051880fe128d220e233f1a5130d629" ;
-	skos:prefLabel	"BestuurseenheidClassificatieCode" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-03-21"^^xsd:date ;
+  ns5:uuid "8d051880fe128d220e233f1a5130d629" ;
+  skos:prefLabel "BestuurseenheidClassificatieCode" .
 ns1:BestuursorgaanClassificatieCode
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-03-21"^^xsd:date ;
-	ns5:uuid	"f5b2b6183754eebd18286b184828f325" ;
-	skos:prefLabel	"BestuursorgaanClassificatieCode" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-03-21"^^xsd:date ;
+  ns5:uuid "f5b2b6183754eebd18286b184828f325" ;
+  skos:prefLabel "BestuursorgaanClassificatieCode" .
 ns1:BestuursfunctieCode
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-03-21"^^xsd:date ;
-	ns5:uuid	"673a47c84faee6c21da8ce447ce5710a" ;
-	skos:prefLabel	"BestuursfunctieCode" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-03-21"^^xsd:date ;
+  ns5:uuid "673a47c84faee6c21da8ce447ce5710a" ;
+  skos:prefLabel "BestuursfunctieCode" .
 ns1:Fractietype
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-06-04"^^xsd:date ;
-	ns5:uuid	"363ada78-3cc2-456f-a4f9-b01793bc9ef9" ;
-	skos:prefLabel	"Fractietype" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-06-04"^^xsd:date ;
+  ns5:uuid "363ada78-3cc2-456f-a4f9-b01793bc9ef9" ;
+  skos:prefLabel "Fractietype" .
 ns1:VerkiezingsresultaatGevolgCode
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-03-21"^^xsd:date ;
-	ns5:uuid	"d1c7ad4b94b94989fa73a4b5f67eeedf" ;
-	skos:prefLabel	"VerkiezingsresultaatGevolgCode" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-03-21"^^xsd:date ;
+  ns5:uuid "d1c7ad4b94b94989fa73a4b5f67eeedf" ;
+  skos:prefLabel "VerkiezingsresultaatGevolgCode" .
 ns1:MandatarisStatusCode
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-03-21"^^xsd:date ;
-	ns5:uuid	"597007c3419bffd36b29f52e5e84424a" ;
-	skos:prefLabel	"MandatarisStatusCode" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-03-21"^^xsd:date ;
+  ns5:uuid "597007c3419bffd36b29f52e5e84424a" ;
+  skos:prefLabel "MandatarisStatusCode" .
 ns1:KandidatenlijstLijsttype
-	rdf:type	skos:ConceptScheme ;
-	ns4:modified	"2018-03-21"^^xsd:date ;
-	ns5:uuid	"254e4d85-3d01-406c-abd4-1d0082fe43f2" ;
-	skos:prefLabel	"Kandidatenlijst lijsttype" .
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2018-03-21"^^xsd:date ;
+  ns5:uuid "254e4d85-3d01-406c-abd4-1d0082fe43f2" ;
+  skos:prefLabel "Kandidatenlijst lijsttype" .

@@ -1,41 +1,41 @@
-@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
-@prefix ns2:	<http://mu.semte.ch/vocabularies/core/> .
-@prefix ns3:	<http://data.vlaanderen.be/id/conceptscheme/> .
-@prefix ns4:	<http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns2: <http://mu.semte.ch/vocabularies/core/> .
+@prefix ns3: <http://data.vlaanderen.be/id/conceptscheme/> .
+@prefix ns4: <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/> .
 
 <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/967a4dd2-53d7-48e8-becd-16a354580623>
-	rdf:type	skos:Concept ;
-	ns2:uuid	"967a4dd2-53d7-48e8-becd-16a354580623" ;
-	skos:prefLabel	"OCMW verkiezingen" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "967a4dd2-53d7-48e8-becd-16a354580623" ;
+  skos:prefLabel "OCMW verkiezingen" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .
 <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/90e3b7d0-2fae-43a1-957e-6daa8d072be1>
-	rdf:type	skos:Concept ;
-	ns2:uuid	"90e3b7d0-2fae-43a1-957e-6daa8d072be1" ;
-	skos:prefLabel	"Kandidatenlijst voor de provincieraadsverkiezingen" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "90e3b7d0-2fae-43a1-957e-6daa8d072be1" ;
+  skos:prefLabel "Kandidatenlijst voor de provincieraadsverkiezingen" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .
 <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/95de36e5-8c7a-4308-af7b-75afbd943dd2>
-	rdf:type	skos:Concept ;
-	ns2:uuid	"95de36e5-8c7a-4308-af7b-75afbd943dd2" ;
-	skos:prefLabel	"Kandidatenlijst voor de gemeenteraadsverkiezingen" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "95de36e5-8c7a-4308-af7b-75afbd943dd2" ;
+  skos:prefLabel "Kandidatenlijst voor de gemeenteraadsverkiezingen" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .
 <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/44aa08d2-fa02-42a3-8ae2-7dbfb23afdcc>
-	rdf:type	skos:Concept ;
-	ns2:uuid	"44aa08d2-fa02-42a3-8ae2-7dbfb23afdcc" ;
-	skos:prefLabel	"Kandidatenlijst voor de  stadsdistrictsraadsverkiezingen" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "44aa08d2-fa02-42a3-8ae2-7dbfb23afdcc" ;
+  skos:prefLabel "Kandidatenlijst voor de stadsdistrictsraadsverkiezingen" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .
 <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/83b89937-84e1-4e6c-a070-83b0fda51871>
-	rdf:type	skos:Concept ;
-	ns2:uuid	"83b89937-84e1-4e6c-a070-83b0fda51871" ;
-	skos:prefLabel	"Kandidatenlijst  voor de verkiezingen van de Kamer van volksvertegenwoordigers" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "83b89937-84e1-4e6c-a070-83b0fda51871" ;
+  skos:prefLabel "Kandidatenlijst voor de verkiezingen van de Kamer van volksvertegenwoordigers" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .
 ns4:af845873-f8fa-4c7e-b67c-10e44957c40e
-	rdf:type	skos:Concept ;
-	ns2:uuid	"af845873-f8fa-4c7e-b67c-10e44957c40e" ;
-	skos:prefLabel	"Kandidatenlijst  voor de verkiezingen van de Senaat" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "af845873-f8fa-4c7e-b67c-10e44957c40e" ;
+  skos:prefLabel "Kandidatenlijst voor de verkiezingen van de Senaat" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .
 <http://data.vlaanderen.be/id/concept/KandidatenlijstLijsttype/33c0d12e-3588-41b9-90f1-05690ea7d8f6>
-	rdf:type	skos:Concept ;
-	ns2:uuid	"33c0d12e-3588-41b9-90f1-05690ea7d8f6" ;
-	skos:prefLabel	"Kandidatenlijst voor de verkiezingen van het Vlaams parlement" ;
-	skos:topConceptOf	ns3:KandidatenlijstLijsttype .
+  rdf:type skos:Concept ;
+  ns2:uuid "33c0d12e-3588-41b9-90f1-05690ea7d8f6" ;
+  skos:prefLabel "Kandidatenlijst voor de verkiezingen van het Vlaams parlement" ;
+  skos:topConceptOf ns3:KandidatenlijstLijsttype .

@@ -8,169 +8,203 @@
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e00001b" ;
   skos:prefLabel "Districtsraadslid" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001f>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e00001f" ;
   skos:prefLabel "Provincieraadslid" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/3200ffc1-bb72-4235-a81c-64aa578b0789>
   rdf:type skos:Concept ;
   ns2:uuid "3200ffc1-bb72-4235-a81c-64aa578b0789" ;
   skos:prefLabel "Adjunct Financieel Directeur" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/63195ec6-02cb-4f86-ac8e-29c5183a11dc>
   rdf:type skos:Concept ;
   ns2:uuid "63195ec6-02cb-4f86-ac8e-29c5183a11dc" ;
   skos:prefLabel "Griffier" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000020>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000020" ;
   skos:prefLabel "Gedeputeerde" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000011>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000011" ;
   skos:prefLabel "Gemeenteraadslid" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000012>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000012" ;
   skos:prefLabel "Voorzitter van de gemeenteraad" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000013>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000013" ;
   skos:prefLabel "Burgemeester" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000014>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000014" ;
   skos:prefLabel "Schepen" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000015>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000015" ;
   skos:prefLabel "Lid van de Raad voor Maatschappelijk Welzijn" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000016>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000016" ;
   skos:prefLabel "Voorzitter van de Raad voor Maatschappelijk Welzijn" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000017>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000017" ;
   skos:prefLabel "Lid van het Vast Bureau" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000019>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000019" ;
   skos:prefLabel "Lid van het Bijzonder Comité voor de Sociale Dienst" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001c>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e00001c" ;
   skos:prefLabel "Voorzitter van de districtsraad" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000023>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000023" ;
   skos:prefLabel "Ocmw-ondervoorzitter" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000026>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000026" ;
   skos:prefLabel "Voorzitter van het districtscollege" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000027>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000027" ;
   skos:prefLabel "Voorzitter van de provincieraad" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 ns4:d7c00cd1-baf1-4346-83c0-6796c0bedd85
   rdf:type skos:Concept ;
   ns2:uuid "d7c00cd1-baf1-4346-83c0-6796c0bedd85" ;
   skos:prefLabel "Gouverneur" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000022>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000022" ;
   skos:prefLabel "Lid van het districtscollege" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001e>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e00001e" ;
   skos:prefLabel "Districtsschepen" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/932a0598-8f05-480e-abda-229365e99610>
   rdf:type skos:Concept ;
   ns2:uuid "932a0598-8f05-480e-abda-229365e99610" ;
   skos:prefLabel "Algemeen directeur-coördinator" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 ns4:f7b4e17b-6f4e-48e7-a558-bce61669f59a
   rdf:type skos:Concept ;
   ns2:uuid "f7b4e17b-6f4e-48e7-a558-bce61669f59a" ;
   skos:prefLabel "Adjunct Algemeen Directeur" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 ns4:d7c00cd1-baf1-4346-83c0-6796c0bedd84
   rdf:type skos:Concept ;
   ns2:uuid "d7c00cd1-baf1-4346-83c0-6796c0bedd84" ;
   skos:prefLabel "Financieel directeur-coördinator" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/39e08271-68db-4282-897f-5cba88c71862>
   rdf:type skos:Concept ;
   ns2:uuid "39e08271-68db-4282-897f-5cba88c71862" ;
   skos:prefLabel "Algemeen directeur" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 ns4:b6eaf1d4-d9b4-409d-a137-af801cf96c67
   rdf:type skos:Concept ;
   ns2:uuid "b6eaf1d4-d9b4-409d-a137-af801cf96c67" ;
   skos:prefLabel "OCMW-secretaris" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/6d4cf4dd-2080-4752-8733-d02a036b2df0>
   rdf:type skos:Concept ;
   ns2:uuid "6d4cf4dd-2080-4752-8733-d02a036b2df0" ;
   skos:prefLabel "Financieel directeur" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 ns4:b213c870-c762-4e39-9f78-3abdeda4b64a
   rdf:type skos:Concept ;
   ns2:uuid "b213c870-c762-4e39-9f78-3abdeda4b64a" ;
   skos:prefLabel "Financieel beheerder" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/855489b9-b584-4f34-90b2-39aea808cd9f>
   rdf:type skos:Concept ;
   ns2:uuid "855489b9-b584-4f34-90b2-39aea808cd9f" ;
   skos:prefLabel "Leidend ambtenaar" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/1c9ea819-f7c3-4ff6-9e2c-8f83ada5794a>
   rdf:type skos:Concept ;
   ns2:uuid "1c9ea819-f7c3-4ff6-9e2c-8f83ada5794a" ;
   skos:prefLabel "Financieel beheerder van het OCMW" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000018>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e000018" ;
   skos:prefLabel "Voorzitter van het Vast bureau" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/789f263f-f789-4628-a541-b14fd9d38278>
   rdf:type skos:Concept ;
   ns2:uuid "789f263f-f789-4628-a541-b14fd9d38278" ;
   skos:prefLabel "Gemeentesecretaris" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001d>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e00001d" ;
   skos:prefLabel "Districtsburgemeester" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001a>
   rdf:type skos:Concept ;
   ns2:uuid "5ab0e9b8a3b2ca7c5e00001a" ;
   skos:prefLabel "Voorzitter van het Bijzonder Comité voor de Sociale Dienst" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/59a90e03-4f22-4bb9-8c91-132618db4b38>
   rdf:type skos:Concept ;
   ns2:uuid "59a90e03-4f22-4bb9-8c91-132618db4b38" ;
   skos:prefLabel "Toegevoegde schepen" ;
-  skos:topConceptOf ns3:BestuursfunctieCode .
+  skos:topConceptOf ns3:BestuursfunctieCode ;
+  skos:inScheme ns3:BestuursfunctieCode .

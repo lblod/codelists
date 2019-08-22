@@ -8,19 +8,23 @@ ns1:e1ca6edd-55e1-4288-92a5-53f4cf71946a
   rdf:type skos:Concept ;
   ns3:uuid "e1ca6edd-55e1-4288-92a5-53f4cf71946a" ;
   skos:prefLabel "Waarnemend" ;
-  skos:topConceptOf ns4:MandatarisStatusCode .
+  skos:topConceptOf ns4:MandatarisStatusCode ;
+  skos:inScheme ns4:MandatarisStatusCode .
 ns1:c301248f-0199-45ca-b3e5-4c596731d5fe
   rdf:type skos:Concept ;
   ns3:uuid "c301248f-0199-45ca-b3e5-4c596731d5fe" ;
   skos:prefLabel "Verhinderd" ;
-  skos:topConceptOf ns4:MandatarisStatusCode .
+  skos:topConceptOf ns4:MandatarisStatusCode ;
+  skos:inScheme ns4:MandatarisStatusCode .
 ns1:aacb3fed-b51d-4e0b-a411-f3fa641da1b3
   rdf:type skos:Concept ;
   ns3:uuid "aacb3fed-b51d-4e0b-a411-f3fa641da1b3" ;
   skos:prefLabel "Titelvoerend" ;
-  skos:topConceptOf ns4:MandatarisStatusCode .
+  skos:topConceptOf ns4:MandatarisStatusCode ;
+  skos:inScheme ns4:MandatarisStatusCode .
 <http://data.vlaanderen.be/id/concept/MandatarisStatusCode/21063a5b-912c-4241-841c-cc7fb3c73e75>
   rdf:type skos:Concept ;
   ns3:uuid "21063a5b-912c-4241-841c-cc7fb3c73e75" ;
   skos:prefLabel "Effectief" ;
-  skos:topConceptOf ns4:MandatarisStatusCode .
+  skos:topConceptOf ns4:MandatarisStatusCode ;
+  skos:inScheme ns4:MandatarisStatusCode .

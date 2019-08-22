@@ -6,13 +6,11 @@
 
 ns1:Samenwerkingsverband
   rdf:type skos:Concept ;
-  ns3:uuid "260d6c7e-fbd4-4849-af26-e828001bc28d" ;
   skos:prefLabel "Samenwerkingsverband" ;
   skos:topConceptOf ns4:Fractietype ;
   skos:inScheme ns4:Fractietype .
 ns1:Onafhankelijk
   rdf:type skos:Concept ;
-  ns3:uuid "fb2f9ed1-e8bc-432c-ac53-827566b863d9" ;
   skos:prefLabel "Onafhankelijk" ;
   skos:topConceptOf ns4:Fractietype ;
   skos:inScheme ns4:Fractietype .

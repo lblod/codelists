@@ -8,15 +8,15 @@
 ns1:BestuurseenheidClassificatieCode
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-03-21"^^xsd:date ;
-  skos:prefLabel "BestuurseenheidClassificatieCode" .
+  skos:prefLabel "Bestuurseenheid classificatie code" .
 ns1:BestuursorgaanClassificatieCode
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-03-21"^^xsd:date ;
-  skos:prefLabel "BestuursorgaanClassificatieCode" .
+  skos:prefLabel "Bestuursorgaan classificatie code" .
 ns1:BestuursfunctieCode
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-03-21"^^xsd:date ;
-  skos:prefLabel "BestuursfunctieCode" .
+  skos:prefLabel "Bestuursfunctie code" .
 ns1:Fractietype
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-06-04"^^xsd:date ;
@@ -24,12 +24,16 @@ ns1:Fractietype
 ns1:VerkiezingsresultaatGevolgCode
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-03-21"^^xsd:date ;
-  skos:prefLabel "VerkiezingsresultaatGevolgCode" .
+  skos:prefLabel "Verkiezingsresultaat gevolg code" .
 ns1:MandatarisStatusCode
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-03-21"^^xsd:date ;
-  skos:prefLabel "MandatarisStatusCode" .
+  skos:prefLabel "Mandataris status code" .
 ns1:KandidatenlijstLijsttype
   rdf:type skos:ConceptScheme ;
   ns4:modified "2018-03-21"^^xsd:date ;
   skos:prefLabel "Kandidatenlijst lijsttype" .
+ns1:BesluitType
+  rdf:type skos:ConceptScheme ;
+  ns4:modified "2019-08-01"^^xsd:date ;
+  skos:prefLabel "Besluittype" .

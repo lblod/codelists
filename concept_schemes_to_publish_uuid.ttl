@@ -5,4 +5,3 @@
 <http://data.vlaanderen.be/id/conceptscheme/VerkiezingsresultaatGevolgCode> <http://mu.semte.ch/vocabularies/core/uuid> "d1c7ad4b94b94989fa73a4b5f67eeedf" .
 <http://data.vlaanderen.be/id/conceptscheme/MandatarisStatusCode> <http://mu.semte.ch/vocabularies/core/uuid> "597007c3419bffd36b29f52e5e84424a" .
 <http://data.vlaanderen.be/id/conceptscheme/KandidatenlijstLijsttype> <http://mu.semte.ch/vocabularies/core/uuid> "254e4d85-3d01-406c-abd4-1d0082fe43f2" .
-<http://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "5f7a9a36-0fe7-4852-b6a6-d89618cfe83b" .

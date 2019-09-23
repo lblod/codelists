@@ -1,0 +1,10 @@
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/13fefad6-a9d6-4025-83b5-e4cbee3a8965> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/30acafe57031815d94b54181c2040a075ffc7d16d93166aea8ad6e8e829ee696> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/3fa67785-ffdc-4b30-8880-2b99d97b4dee> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/46b254008bbca1354e632dc40cf550c6b313e523799cafd7200a48a19e09249f> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/8e791b27-7600-4577-b24e-c7c29e0eb773> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/5a71a9e79b58c6b095cb2e575c7a397cc1fe80385e4d1deddd66745a03638f9f> .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/072413568f428f8490f55729f8e577979fcb9a28c4fc0727fbf539677bef1dce>.
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/8e791b27-7600-4577-b24e-c7c29e0eb773> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/9fb28f4a126a4f02940408344c37b81c32f567c30a7b0390dee14e8ead197b64>

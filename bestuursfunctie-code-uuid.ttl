@@ -32,3 +32,4 @@
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001d> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e00001d" .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e00001a> <http://mu.semte.ch/vocabularies/core/uuid> "5ab0e9b8a3b2ca7c5e00001a" .
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/59a90e03-4f22-4bb9-8c91-132618db4b38> <http://mu.semte.ch/vocabularies/core/uuid> "59a90e03-4f22-4bb9-8c91-132618db4b38" .
+<http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode> <http://mu.semte.ch/vocabularies/core/uuid> "673a47c84faee6c21da8ce447ce5710a" .

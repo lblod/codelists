@@ -3,3 +3,4 @@
 <http://publications.europa.eu/resource/authority/human-sex/NKN> <http://mu.semte.ch/vocabularies/core/uuid> "5accdb4d64a9790001000000".
 <http://publications.europa.eu/resource/authority/human-sex/NAP> <http://mu.semte.ch/vocabularies/core/uuid> "5accdb8464a9790001000001".
 <http://publications.europa.eu/resource/authority/human-sex/OP_DATPRO> <http://mu.semte.ch/vocabularies/core/uuid> "5accdbd264a9790001000002".
+<http://publications.europa.eu/resource/authority/human-sex> <http://mu.semte.ch/vocabularies/core/uuid> "5acdc497fb60a00001000000".

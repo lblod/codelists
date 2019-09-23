@@ -1,2 +1,3 @@
 <http://data.vlaanderen.be/id/concept/Fractietype/Samenwerkingsverband> <http://mu.semte.ch/vocabularies/core/uuid> "260d6c7e-fbd4-4849-af26-e828001bc28d" .
 <http://data.vlaanderen.be/id/concept/Fractietype/Onafhankelijk> <http://mu.semte.ch/vocabularies/core/uuid> "fb2f9ed1-e8bc-432c-ac53-827566b863d9" .
+<http://data.vlaanderen.be/id/conceptscheme/Fractietype> <http://mu.semte.ch/vocabularies/core/uuid> "363ada78-3cc2-456f-a4f9-b01793bc9ef9" .

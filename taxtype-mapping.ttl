@@ -4,5 +4,3 @@
 <http://lblod.data.gift/concepts/3a815e496cadcc497ead75d7ceea376a4a523f3ff765b32abf1ec608fe6b6746> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/TaxType/0a9c8b98da3f166b86cfe827bc0e6b779a4dc2f7a69e7be6031fd1959eaedc0d> .
 
 <http://lblod.data.gift/concepts/50dcd5efc1a21ccb619bb761eef40e300eed9e6b59eb9cc9d49e9b47bbb57779> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/TaxType/695dc6aea46ff4cae3be530e80d7e9b5e2025c1b87c852510833fc303995721d> .
-
-<http://lblod.data.gift/concepts/fd6e9c351138e028bea7bb7490075a90eb960f26c6bd1f8a8a9953eca7e4d27d> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/TaxType/6adc7281cbef681d2433a93a73275f246976ed77f72c9dd37a60182e063df44c> .

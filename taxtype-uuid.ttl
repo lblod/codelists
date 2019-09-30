@@ -11,7 +11,3 @@
 
 <http://lblod.data.gift/concepts/50dcd5efc1a21ccb619bb761eef40e300eed9e6b59eb9cc9d49e9b47bbb57779> <http://mu.semte.ch/vocabularies/core/uuid> "50dcd5efc1a21ccb619bb761eef40e300eed9e6b59eb9cc9d49e9b47bbb57779" .
 <http://lblod.data.gift/concepts/50dcd5efc1a21ccb619bb761eef40e300eed9e6b59eb9cc9d49e9b47bbb57779> a <http://mu.semte.ch/vocabularies/ext/TaxType> .
-
-
-<http://lblod.data.gift/concepts/fd6e9c351138e028bea7bb7490075a90eb960f26c6bd1f8a8a9953eca7e4d27d> <http://mu.semte.ch/vocabularies/core/uuid> "fd6e9c351138e028bea7bb7490075a90eb960f26c6bd1f8a8a9953eca7e4d27d" .
-<http://lblod.data.gift/concepts/fd6e9c351138e028bea7bb7490075a90eb960f26c6bd1f8a8a9953eca7e4d27d> a <http://mu.semte.ch/vocabularies/ext/TaxType> .

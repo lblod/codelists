@@ -87,4 +87,56 @@
 
 <https://data.vlaanderen.be/id/concept/BesluitType/fb92601a-d189-4482-9922-ab0efc6bc935> <http://mu.semte.ch/vocabularies/core/uuid> "fb92601a-d189-4482-9922-ab0efc6bc935" .
 
+<https://data.vlaanderen.be/id/concept/BesluitType/09ac9b9b-2585-4195-8c11-8cf8592de213> <http://mu.semte.ch/vocabularies/core/uuid> "09ac9b9b-2585-4195-8c11-8cf8592de213" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/94657ec2-e8a1-411f-bb96-d0ea517d7051> <http://mu.semte.ch/vocabularies/core/uuid> "94657ec2-e8a1-411f-bb96-d0ea517d7051" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/35c15ea0-d0c3-4ba7-b91f-b1c6264800b1> <http://mu.semte.ch/vocabularies/core/uuid> "35c15ea0-d0c3-4ba7-b91f-b1c6264800b1" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/23735395-a487-4f0b-9ffa-f8ee1d3cd84f> <http://mu.semte.ch/vocabularies/core/uuid> "23735395-a487-4f0b-9ffa-f8ee1d3cd84f" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/5226e23d-617d-48b9-9c00-3d679ae88fec> <http://mu.semte.ch/vocabularies/core/uuid> "5226e23d-617d-48b9-9c00-3d679ae88fec" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/f4ba730e-3f12-4c2f-81cf-31922b6da166> <http://mu.semte.ch/vocabularies/core/uuid> "f4ba730e-3f12-4c2f-81cf-31922b6da166" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/9a02d21f-fdc4-455e-8892-c2ae1d33759a> <http://mu.semte.ch/vocabularies/core/uuid> "9a02d21f-fdc4-455e-8892-c2ae1d33759a" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/6199a44b-0d6c-407c-833a-73abb104efce> <http://mu.semte.ch/vocabularies/core/uuid> "6199a44b-0d6c-407c-833a-73abb104efce" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/2c2f5e3c-827f-4ad7-906a-176f3bda08ce> <http://mu.semte.ch/vocabularies/core/uuid> "2c2f5e3c-827f-4ad7-906a-176f3bda08ce" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/a8cdb80d-d409-40ed-bb8b-ddfd0acb28df> <http://mu.semte.ch/vocabularies/core/uuid> "a8cdb80d-d409-40ed-bb8b-ddfd0acb28df" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/2dca7056-06aa-44f0-b8ca-4e1002cdd119> <http://mu.semte.ch/vocabularies/core/uuid> "2dca7056-06aa-44f0-b8ca-4e1002cdd119" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/5bedea99-905b-4bae-b0d2-e7755c72a5be> <http://mu.semte.ch/vocabularies/core/uuid> "5bedea99-905b-4bae-b0d2-e7755c72a5be" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/f276bc3b-2d79-4c55-81b8-092e05619676> <http://mu.semte.ch/vocabularies/core/uuid> "f276bc3b-2d79-4c55-81b8-092e05619676" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/bdb04f43-97d2-4be2-aa92-8affd1f3fec8> <http://mu.semte.ch/vocabularies/core/uuid> "bdb04f43-97d2-4be2-aa92-8affd1f3fec8" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/35d9d01c-015c-4fb9-8ec1-8227f9f4d28c> <http://mu.semte.ch/vocabularies/core/uuid> "35d9d01c-015c-4fb9-8ec1-8227f9f4d28c" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/c258f7b8-0bcc-481c-923d-b58b15248422> <http://mu.semte.ch/vocabularies/core/uuid> "c258f7b8-0bcc-481c-923d-b58b15248422" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/c76a04b4-cf41-44e1-b597-94c0b3628357> <http://mu.semte.ch/vocabularies/core/uuid> "c76a04b4-cf41-44e1-b597-94c0b3628357" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/31d500ce-bd0a-4ff3-9337-48194f22f37e> <http://mu.semte.ch/vocabularies/core/uuid> "31d500ce-bd0a-4ff3-9337-48194f22f37e" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/73d5d79f-3f70-4ca9-9512-e216300cd3ac> <http://mu.semte.ch/vocabularies/core/uuid> "73d5d79f-3f70-4ca9-9512-e216300cd3ac" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/1869e152-e724-4dd7-927c-a11e7d832858> <http://mu.semte.ch/vocabularies/core/uuid> "1869e152-e724-4dd7-927c-a11e7d832858" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/8d8a75bf-f639-44ae-bcce-50b8f760cc3c> <http://mu.semte.ch/vocabularies/core/uuid> "8d8a75bf-f639-44ae-bcce-50b8f760cc3c" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/00527d30-e60b-4fa5-9152-f42dddd10ff6> <http://mu.semte.ch/vocabularies/core/uuid> "00527d30-e60b-4fa5-9152-f42dddd10ff6" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/e6425cd1-26f2-4cd8-aa0f-1e9b65619c3a> <http://mu.semte.ch/vocabularies/core/uuid> "e6425cd1-26f2-4cd8-aa0f-1e9b65619c3a" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/e2928231-d377-48c7-98b4-3bb2f7de65db> <http://mu.semte.ch/vocabularies/core/uuid> "e2928231-d377-48c7-98b4-3bb2f7de65db" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/f1d16307-164c-4278-87b9-1d3b1d968f67> <http://mu.semte.ch/vocabularies/core/uuid> "f1d16307-164c-4278-87b9-1d3b1d968f67" .
+
+<https://data.vlaanderen.be/id/concept/BesluitType/51982214-0d8b-4cd9-87cf-c46570cd1ed3> <http://mu.semte.ch/vocabularies/core/uuid> "51982214-0d8b-4cd9-87cf-c46570cd1ed3" .
+
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "da6076d5-145b-4e72-a75a-f7098b816ee1" .

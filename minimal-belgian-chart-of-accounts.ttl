@@ -620,7 +620,7 @@
 <http://lblod.data.gift/concepts/fad34acdd5a6d17b59d58678542b65e9c364d2c84bf49fea8611ecc2d6ce3411> a <http://www.w3.org/2004/02/skos/core#Concept>;
    <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/b65b15ba-6755-4cd2-bd07-2c2cf3c0e4d3>;
    <http://www.w3.org/2004/02/skos/core#notation> "7304";
-   <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewestbelasting op verwaarlozing woningen en gebouwen"@nl;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewestelijke belasting op ongeschikt en onbewoonbare woningen"@nl;
    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/b65b15ba-6755-4cd2-bd07-2c2cf3c0e4d3> .
 
 <http://lblod.data.gift/concepts/fb826410318098086e2f2e568c95843bcdaf27de576eebbd02a2a917129a7e62> a <http://www.w3.org/2004/02/skos/core#Concept>;

@@ -2,6 +2,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot oprichting van een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting IGS";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -9,6 +10,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van het meerjarenplan of tot vaststelling van de aanpassing van het meerjarenplan conform BBC2020.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerjarenplan(aanpassing) BBC2020";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -17,6 +19,7 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/2f189152-1786-4b55-a3a9-d7f06de63f1c>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot vaststelling van het meerjarenplan conform BBC2020.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaststelling van meerjarenplan BBC2020" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/1869e152-e724-4dd7-927c-a11e7d832858> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -24,12 +27,14 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/2f189152-1786-4b55-a3a9-d7f06de63f1c>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot vaststelling van de aanpassing van het meerjarenplan conform BBC2020.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaststelling van meerjarenplanaanpassing BBC2020" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/380674ee-0894-4c41-bcc1-9deaeb9d464c> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot oprichting van een districtsbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting districtsbestuur";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -37,6 +42,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het meerjarenplan of over de vaststelling van de aanpassing van het meerjarenplan van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over meerjarenplan(aanpassing) eredienstbestuur";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -45,6 +51,7 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/3fcf7dba-2e5b-4955-a489-6dd8285c013b>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het meerjarenplan van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling van meerjarenplan eredienstbestuur" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/00527d30-e60b-4fa5-9152-f42dddd10ff6> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -52,12 +59,14 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/3fcf7dba-2e5b-4955-a489-6dd8285c013b>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van de aanpassing van het meerjarenplan van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling meerjarenplanaanpassing eredienstbestuur" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/40831a2c-771d-4b41-9720-0399998f1873> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van het budget.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Budget";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -65,6 +74,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn houdende advies bij de jaarrekening van een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Advies jaarrekening OCMW-vereniging";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -73,6 +83,7 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/67378dd0-5413-474b-8996-d992ef81637a>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling of wijziging van een personeelsreglement.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Personeelsreglement" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/4d8f678a-6fa4-4d5f-a2a1-80974e43bf34> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -80,12 +91,14 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/67378dd0-5413-474b-8996-d992ef81637a>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad of van het college van burgemeester en schepenen dat de politie op het wegverkeer regelt op gemeentewegen die niet in havengebied of speciale beschermingszones gelegen zijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Aanvullend reglement op het wegverkeer enkel m.b.t. gemeentewegen (niet in havengebied of speciale beschermingszones)" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/4efa4632-efc6-40d5-815a-dec785fbceac> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad of provincieraad houdende advies aan de Vlaamse Regering over de wijziging van de gebiedsomschrijving van de erkende plaatselijke kerk- of geloofsgemeenschap).";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Advies samenvoeging eredienstbesturen";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -93,6 +106,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over het budget van een autonoom gemeentebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over budget AGB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -100,6 +114,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het meerjarenplan of over de vaststelling van de aanpassing van het meerjarenplan van een autonoom gemeentebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over meerjarenplan(aanpassing) AGB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -108,6 +123,7 @@
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/f276bc3b-2d79-4c55-81b8-092e05619676>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het meerjarenplan van een autonoom gemeentebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling van meerjarenplan AGB" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/35d9d01c-015c-4fb9-8ec1-8227f9f4d28c> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -121,6 +137,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluiten met een reglementair of verordenend karakter. Deze besluiten hebben een algemene draagwijdte.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Reglementen en verordeningen";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -128,6 +145,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van een bestuursorgaan van de gemeente Voeren dat aan bijzonder goedkeuringstoezicht onderworpen is.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Goedkeuringstoezicht Voeren";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -135,6 +153,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot wijziging van de statuten van een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Statutenwijziging vereniging of vennootschap voor maatschappelijk welzijn";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -142,6 +161,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn houdende advies bij de jaarrekening van een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Advies jaarrekening vereniging of vennootschap voor maatschappelijk welzijn";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -149,6 +169,7 @@
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad houdende advies bij de jaarrekening van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Advies bij jaarrekening eredienstbestuur";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -158,6 +179,7 @@
   <http://www.w3.org/2004/02/skos/core#definition> """Besluit van de provincieraad over het budget van een autonoom
 provinciebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over budget APB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -165,6 +187,7 @@ provinciebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de provincieraad over de vaststelling van het meerjarenplan of over de vaststelling van de aanpassing van het meerjarenplan van een autonoom provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over meerjarenplan(aanpassing) APB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -173,6 +196,7 @@ provinciebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/c258f7b8-0bcc-481c-923d-b58b15248422>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het meerjarenplan van een autonoom provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling van meerjarenplan APB" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/31d500ce-bd0a-4ff3-9337-48194f22f37e> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -180,6 +204,7 @@ provinciebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/c258f7b8-0bcc-481c-923d-b58b15248422>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van de aanpassing van het meerjarenplan van een autonoom provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling van meerjarenplanaanpassing APB" .
 
 
@@ -188,6 +213,7 @@ provinciebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vastelling of de aanpassing van het meerjarenplan van een autonoom gemeentebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit meerjarenplan(aanpassing) AGB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -195,6 +221,7 @@ provinciebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de provincieraad houdende advies bij de jaarrekening van een autonoom gemeentebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Advies bij jaarrekening APB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -203,6 +230,7 @@ provinciebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#definition> """Besluit van de gemeenteraad over het budget van een autonoom
 gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit budget AGB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -210,6 +238,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad houdende advies bij de jaarrekening van een autonoom gemeentebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Advies bij jaarrekening AGB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -217,6 +246,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van het college van burgemeester en schepenen tot schorsing van een beslissing van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Schorsing beslissing eredienstbesturen";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -224,6 +254,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot oprichting van een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting ocmw-vereniging";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -231,6 +262,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad of provincieraad tot oprichting van een autonoom gemeente- of provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting autonoom bedrijf";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -238,6 +270,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de provincieraad over de vastelling of de aanpassing van het meerjarenplan van een autonoom provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over meerjarenplan APB";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -245,6 +278,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad of provincieraad tot wijziging van de statuten van een autonoom gemeente- of provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijziging autonoom bedrijf";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -252,6 +286,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot wijziging van de statuten van een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijziging ocmw-vereniging";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -259,6 +294,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot wijziging van de statuten van een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Statutenwijziging IGS";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -266,6 +302,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het budget of over de vaststelling van de wijziging van het budget van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over budget(wijziging) eredienstbestuur";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -274,6 +311,7 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/df261490-cc74-4f80-b783-41c35e720b46>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van het budget van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling budget eredienstbestuur" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/e2928231-d377-48c7-98b4-3bb2f7de65db> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -281,12 +319,14 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/df261490-cc74-4f80-b783-41c35e720b46>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad over de vaststelling van de wijziging van het budget van een eredienstbestuur.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit over vaststelling budgetwijziging eredienstbestuur" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/e27ef237-29de-49b8-be22-4ee2ab2d4e5b> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot toetreding tot een rechtspersoon, andere dan een extern verzelfstandigd agentschap of intergemeentelijk samenwerkingsverband en andere dan een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Toetreding rechtspersoon";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -294,6 +334,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van de jaarrekening.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaarrekening";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -302,12 +343,14 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad of provincieraad tot wijziging van de statuten van een autonoom gemeente- of provinciebedrijf.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Statutenwijziging autonoom bedrijf";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/f4ba730e-3f12-4c2f-81cf-31922b6da166> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot oprichting van een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting rechtspersoon IGS";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -315,6 +358,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot wijziging van de statuten van een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Statutenwijziging rechtspersoon IGS";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -322,6 +366,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot oprichting van een vereniging of vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting of toetreding vereniging of vennootschap voor maatschappelijk welzijn";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -330,6 +375,7 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/6199a44b-0d6c-407c-833a-73abb104efce>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot oprichting van een vereniging voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting van een vereniging voor maatschappelijk welzijn" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/a8cdb80d-d409-40ed-bb8b-ddfd0acb28df> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -337,6 +383,7 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/6199a44b-0d6c-407c-833a-73abb104efce>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot toetreding tot een vereniging voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Toetreding tot een vereniging voor maatschappelijk welzijn" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/2dca7056-06aa-44f0-b8ca-4e1002cdd119> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -344,6 +391,7 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/6199a44b-0d6c-407c-833a-73abb104efce>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de raad voor maatschappelijk welzijn tot toetreding tot een vennootschap voor maatschappelijk welzijn.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Toetreding tot een vennootschap voor maatschappelijk welzijn" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/b2d0734d-13d0-44b4-9af8-1722933c5288> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -351,6 +399,7 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/efa4ec5a-b006-453f-985f-f986ebae11bc>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot heffing, wijziging of opheffing van een aanvullende belasting of opcentiem.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Aanvullende belasting of opcentiem" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/4c22ef0a-f808-41dd-9c9f-2aff17fd851f> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -358,6 +407,7 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/efa4ec5a-b006-453f-985f-f986ebae11bc>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot heffing, wijziging of opheffing van een contantbelasting.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Contantbelasting" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/8597e056-b96d-4213-ad4c-37338f2aaf35> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -365,12 +415,14 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/efa4ec5a-b006-453f-985f-f986ebae11bc>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot heffing, wijziging of opheffing van een kohierbelasting.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohierbelasting" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/f56c645d-b8e1-4066-813d-e213f5bc529f> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van het meerjarenplan of tot vaststelling van de aanpassing van het meerjarenplan.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerjarenplan(aanpassing)";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -378,6 +430,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van het meerjarenplan.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaststelling van meerjarenplan";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/f56c645d-b8e1-4066-813d-e213f5bc529f> .
 
@@ -385,6 +438,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van de aanpassing van het meerjarenplan.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaststelling van meerjarenplanaanpassing";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/f56c645d-b8e1-4066-813d-e213f5bc529f> .
 
@@ -392,6 +446,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot oprichting van een extern verzelfstandigd agentschap of tot deelname in een extern verzelfstandigd agentschap.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting of deelname EVA";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
@@ -399,6 +454,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot oprichting van een extern verzelfstandigd agentschap.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Oprichting van een EVA";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/f8c070bd-96e4-43a1-8c6e-532bcd771251>.
 
@@ -406,6 +462,7 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit van de gemeenteraad tot deelname in een extern verzelfstandigd agentschap.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Deelname in een EVA";
   <http://www.w3.org/2004/02/skos/core#broader> <https://data.vlaanderen.be/id/concept/BesluitType/f8c070bd-96e4-43a1-8c6e-532bcd771251>.
 
@@ -413,9 +470,14 @@ gemeentebedrijf.""";
     <http://www.w3.org/2000/01/rdf-schema#Class>;
   <http://www.w3.org/2004/02/skos/core#definition> "Besluit tot vaststelling van het geheel van of wijzigingen aan de rechtspositieregeling van het personeel.";
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitType>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Rechtspositieregeling (RPR)";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitType> .
 
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
   <http://www.w3.org/2004/02/skos/core#definition> "Het type van de rechtsgrond. Bijvoorbeeld: reglement, wet, voorstel.";
   <http://www.w3.org/2004/02/skos/core#prefLabel> "besluit type" .
+
+<http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Het type dossier bij inzending voor toezicht.";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Type dossier inzending voor toezicht" .

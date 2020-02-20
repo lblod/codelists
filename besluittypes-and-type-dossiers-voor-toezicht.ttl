@@ -525,7 +525,3 @@ gemeentebedrijf.""";
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Verslag lokale betrokkenheid eredienstbesturen";
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> .
-
-<http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-  <http://www.w3.org/2004/02/skos/core#definition> "Het type dossier bij inzending voor toezicht.";
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Type dossier inzending voor toezicht" .

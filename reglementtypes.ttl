@@ -1,6 +1,6 @@
 <http://lblod.data.gift/concept-schemes/c93ccd41-aee7-488f-86d3-038de890d05a> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-  <http://www.w3.org/2004/02/skos/core#definition> "Reglementtype als aparte conceptscheme.";
-<http://www.w3.org/2004/02/skos/core#prefLabel> "reglementtype" .
+  <http://www.w3.org/2004/02/skos/core#definition> "Reglementtype bij inzending voor toezicht. ";
+<http://www.w3.org/2004/02/skos/core#prefLabel> "Reglementtype inzending voor toezicht" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/4673d472-8dbc-4cea-b3ab-f92df3807eb3> a <http://www.w3.org/2004/02/skos/core#Concept>,
     <http://www.w3.org/2000/01/rdf-schema#Class>;

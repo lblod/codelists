@@ -11,7 +11,7 @@ If you want all (user-friendly) information available in the application, merge 
 - [besluittype](https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-lokaleBesluiten/master/codelijsten/besluit-type.ttl)
 - [besluit-document-type](https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-lokaleBesluiten/master/codelijsten/document-type.ttl)
 - [bestuurseenheid classificatie code](https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-lokaleBesluiten/master/codelijsten/bestuurseenheid-classificatie-code.ttl)
-- [decidable_by](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/reglementtypes-voor-inzending.ttl)
+- [decidable_by](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/decidable_by.ttl)
 - [minimal belgian chart of accounts](https://raw.githubusercontent.com/lblod/codelists/master/minimal-belgian-chart-of-accounts.ttl)
 - [reglementtypes-voor-inzending](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/reglementtypes-voor-inzending.ttl)
 - [tax type](https://raw.githubusercontent.com/lblod/codelists/master/taxtype.ttl)

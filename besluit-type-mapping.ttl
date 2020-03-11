@@ -86,3 +86,5 @@
 <https://data.vlaanderen.be/id/concept/BesluitType/dbc58656-b0a5-4e43-8e9e-701acb75f9b0> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/1c0a7dae2be26ee48a31ca80508fbc6defb046791655283b5b91ee0d5242e675>
 
 <https://data.vlaanderen.be/id/concept/BesluitType/efa4ec5a-b006-453f-985f-f986ebae11bc> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/RegulationType/ef35b053c004a25069c58090d967ade753dd02586b0f76b916a0ca82b7294d0b>
+
+<https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/15150f3d5ec59c5f202fd2d8bb289de12b15adf98c660c535468fac0c7ff5ba2>

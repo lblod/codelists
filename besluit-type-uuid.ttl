@@ -145,4 +145,6 @@
 
 <https://data.vlaanderen.be/id/concept/BesluitType/8597e056-b96d-4213-ad4c-37338f2aaf35> <http://mu.semte.ch/vocabularies/core/uuid> "8597e056-b96d-4213-ad4c-37338f2aaf35" .
 
+<https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c> <http://mu.semte.ch/vocabularies/core/uuid> "bf72e38a-2c73-4484-b82f-c642a4c39d0c" .
+
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "da6076d5-145b-4e72-a75a-f7098b816ee1" .

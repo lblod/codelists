@@ -372,3 +372,8 @@
 # Wijziging ocmw-vereniging
 # OCMWV
 <https://data.vlaanderen.be/id/concept/BesluitType/d9c3d177-6dc6-4775-8c6a-1055a9cbdcc6>  lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>.
+
+
+# Authentieke akte van de statuten
+# OCMWV
+<https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c>  lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>.

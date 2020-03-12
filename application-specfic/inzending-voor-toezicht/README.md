@@ -1,10 +1,10 @@
 # Context
-For the application "inzending-voor-toezicht/medlingsplicht", we want to keep track of the conceptschemes used.
+For the application "inzending-voor-toezicht/meldingsplicht", we want to keep track of the conceptschemes used.
 
 Some new conceptschemes have been defined to correspond with fields in the forms related to the application (mainly select-boxes).
 Other conceptschemes are literally reused from the existing ones. We want to keep track of what is required, hence the link.
 
-## Merging the required files for a consitent block in the application.
+## Merging the required files for a consistent block in the application.
 If you want all (user-friendly) information available in the application, merge the following files:
 
 - [authenticity type](https://raw.githubusercontent.com/lblod/codelists/master/authenticitytype.ttl)

@@ -285,6 +285,11 @@
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5> .
 
+#  "Authentieke akte van de statuten"
+<https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c>
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5> .
+
 # "Andere documenten BBC";
 <https://data.vlaanderen.be/id/concept/BesluitDocumentType/0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e>
   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/71e6455e-1204-46a6-abf4-87319f58eaa5>;

@@ -2,3 +2,4 @@
 
 <http://lblod.data.gift/concepts/9bd8d86d-bb10-4456-a84e-91e9507c374c> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/document-statuses/verstuurd> .
 
+<http://lblod.data.gift/concepts/faa5110a-fdb2-47fa-a0d2-118e5542ef05> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/document-statuses/verwijderd> .

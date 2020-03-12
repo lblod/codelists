@@ -8,3 +8,6 @@
 
 <http://lblod.data.gift/concepts/9bd8d86d-bb10-4456-a84e-91e9507c374c> <http://mu.semte.ch/vocabularies/core/uuid> "9bd8d86d-bb10-4456-a84e-91e9507c374c" .
 <http://lblod.data.gift/concepts/9bd8d86d-bb10-4456-a84e-91e9507c374c> a <http://mu.semte.ch/vocabularies/ext/SubmissionDocumentStatus> .
+
+<http://lblod.data.gift/concepts/faa5110a-fdb2-47fa-a0d2-118e5542ef05c> <http://mu.semte.ch/vocabularies/core/uuid> "faa5110a-fdb2-47fa-a0d2-118e5542ef05" .
+<http://lblod.data.gift/concepts/faa5110a-fdb2-47fa-a0d2-118e5542ef05> a <http://mu.semte.ch/vocabularies/ext/SubmissionDocumentStatus> .

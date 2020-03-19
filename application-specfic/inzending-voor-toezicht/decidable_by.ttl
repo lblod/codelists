@@ -1,7 +1,4 @@
-@prefix lblodBesluit: <http://lblod.data.gift/vocabularies/besluit/> . 
-
-
-
+@prefix lblodBesluit: <http://lblod.data.gift/vocabularies/besluit/> .
 
 # Advies bij jaarrekening AGB
 # GEMEENTE

@@ -6,3 +6,6 @@
 
 <http://lblod.data.gift/concepts/72e253512446ff0b48a2430cb4462634ef577040efeb785ee35d32eba1d90e0f> <http://mu.semte.ch/vocabularies/core/uuid> "72e253512446ff0b48a2430cb4462634ef577040efeb785ee35d32eba1d90e0f" .
 <http://lblod.data.gift/concepts/72e253512446ff0b48a2430cb4462634ef577040efeb785ee35d32eba1d90e0f> a <http://mu.semte.ch/vocabularies/ext/AuthenticityType> .
+
+# Document authenticity type conceptcheme
+<http://lblod.data.gift/concept-schemes/5cecec47-ba66-4d7a-ac9d-a1e7962ca4e2> <http://mu.semte.ch/vocabularies/core/uuid> "69e1b9dc-11e8-4617-a7ff-645fca3535a2".

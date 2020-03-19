@@ -23,4 +23,4 @@ If you want all (user-friendly) information available in the application, merge 
 - [taxtype](https://raw.githubusercontent.com/lblod/codelists/master/taxtype.ttl)
 - [taxtype-uuids](https://raw.githubusercontent.com/lblod/codelists/master/taxtype-uuid.ttl)
 - [type-dossier-voor-inzending](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/type-dossier-voor-inzending.ttl)
-- [type-dossier-voor-inzending-uuids](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/type-dossier-voor-inzending-uuids.ttl)
+- [type-dossier-voor-inzending-uuid](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/type-dossier-voor-inzending-uuid.ttl)

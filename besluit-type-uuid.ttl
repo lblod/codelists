@@ -1,4 +1,3 @@
-
 <https://data.vlaanderen.be/id/concept/BesluitType/0d1278af-b69e-4152-a418-ec5cfd1c7d0b> <http://mu.semte.ch/vocabularies/core/uuid> "0d1278af-b69e-4152-a418-ec5cfd1c7d0b" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/1105564e-30c7-4371-a864-6b7329cdae6f> <http://mu.semte.ch/vocabularies/core/uuid> "1105564e-30c7-4371-a864-6b7329cdae6f" .
@@ -146,5 +145,11 @@
 <https://data.vlaanderen.be/id/concept/BesluitType/8597e056-b96d-4213-ad4c-37338f2aaf35> <http://mu.semte.ch/vocabularies/core/uuid> "8597e056-b96d-4213-ad4c-37338f2aaf35" .
 
 <https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c> <http://mu.semte.ch/vocabularies/core/uuid> "bf72e38a-2c73-4484-b82f-c642a4c39d0c" .
+
+# "Besluit over budget(wijziging) OCMW-vereniging."
+ <https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> <http://mu.semte.ch/vocabularies/core/uuid> "70ae4d36-de0c-425d-9dbe-3b6deef8343c".
+
+# "Verslag lokale betrokkenheid eredienstbesturen."
+<https://data.vlaanderen.be/id/concept/BesluitType/ed26e814-6af9-4fe5-a2ac-a375a04884ae> <http://mu.semte.ch/vocabularies/core/uuid> "ed26e814-6af9-4fe5-a2ac-a375a04884ae".
 
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "da6076d5-145b-4e72-a75a-f7098b816ee1" .

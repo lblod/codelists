@@ -374,3 +374,7 @@
 # Authentieke akte van de statuten
 # OCMWV
 <https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c>  lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/cc4e2d67-603b-4784-9b61-e50bac1ec089>.
+
+# Besluit over budget(wijziging) OCMW-vereniging.
+# GEMEENTE
+<https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001>.

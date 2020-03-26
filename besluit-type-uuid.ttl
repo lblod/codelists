@@ -148,8 +148,5 @@
 
 # "Besluit over budget(wijziging) OCMW-vereniging."
  <https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> <http://mu.semte.ch/vocabularies/core/uuid> "70ae4d36-de0c-425d-9dbe-3b6deef8343c".
-
-# "Verslag lokale betrokkenheid eredienstbesturen."
-<https://data.vlaanderen.be/id/concept/BesluitType/ed26e814-6af9-4fe5-a2ac-a375a04884ae> <http://mu.semte.ch/vocabularies/core/uuid> "ed26e814-6af9-4fe5-a2ac-a375a04884ae".
-
+ 
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "da6076d5-145b-4e72-a75a-f7098b816ee1" .

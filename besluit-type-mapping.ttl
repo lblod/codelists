@@ -92,6 +92,3 @@
 
 # "Besluit over budget(wijziging) OCMW-vereniging."
  <https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/1e6d99d58c6db519d593f8354f218eea4936199388ac0dcb93da6ad7f252b253> .
-
-# "Verslag lokale betrokkenheid eredienstbesturen."
-<https://data.vlaanderen.be/id/concept/BesluitType/ed26e814-6af9-4fe5-a2ac-a375a04884ae>  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/f35571110db650b4322efe2edd8d7181e43426cd29afd4cb2a765cb78cd750d7> .

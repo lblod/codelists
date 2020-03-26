@@ -7,3 +7,6 @@
 <https://data.vlaanderen.be/id/concept/BesluitDocumentType/0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/072413568f428f8490f55729f8e577979fcb9a28c4fc0727fbf539677bef1dce>.
 
 <https://data.vlaanderen.be/id/concept/BesluitDocumentType/8e791b27-7600-4577-b24e-c7c29e0eb773> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/9fb28f4a126a4f02940408344c37b81c32f567c30a7b0390dee14e8ead197b64> .
+
+# Verslag lokale betrokkenheid eredienstbesturen
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/e274f1b1-7e84-457d-befe-070afec6b752> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.lblod.info/DecisionType/f35571110db650b4322efe2edd8d7181e43426cd29afd4cb2a765cb78cd750d7>.

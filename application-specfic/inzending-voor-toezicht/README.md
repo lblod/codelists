@@ -24,3 +24,5 @@ If you want all (user-friendly) information available in the application, merge 
 - [taxtype-uuids](https://raw.githubusercontent.com/lblod/codelists/master/taxtype-uuid.ttl)
 - [type-dossier-voor-inzending](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/type-dossier-voor-inzending.ttl)
 - [type-dossier-voor-inzending-uuid](https://raw.githubusercontent.com/lblod/codelists/master/application-specfic/inzending-voor-toezicht/type-dossier-voor-inzending-uuid.ttl)
+ -[bestuursorgaan-classificatie-code](https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-lokaleBesluiten/master/codelijsten/bestuursorgaan-classificatie-code.ttl)
+ -[bestuursorgaan-classificatie-code-uuid](https://raw.githubusercontent.com/lblod/codelists/master/bestuursorgaan-classificatie-code-uuid.ttl)

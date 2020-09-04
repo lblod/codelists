@@ -1,0 +1,3 @@
+# some triples where there is no place for right now
+<http://data.vlaanderen.be/id/conceptscheme/BestuursorgaanClassificatieCode>  a <http://www.w3.org/2004/02/skos/core#ConceptScheme>.
+<http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode>  a <http://www.w3.org/2004/02/skos/core#ConceptScheme>.

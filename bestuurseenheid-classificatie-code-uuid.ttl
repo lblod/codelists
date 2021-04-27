@@ -15,4 +15,5 @@
 <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d312c541-a263-4004-bca2-63eb991458c3> <http://mu.semte.ch/vocabularies/core/uuid> "d312c541-a263-4004-bca2-63eb991458c3" .
 <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d01bb1f6-2439-4e33-9c25-1fc295de2e71> <http://mu.semte.ch/vocabularies/core/uuid> "d01bb1f6-2439-4e33-9c25-1fc295de2e71" .
 <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/f9cac08a-13c1-49da-9bcb-f650b0604054> <http://mu.semte.ch/vocabularies/core/uuid> "f9cac08a-13c1-49da-9bcb-f650b0604054" .
+<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d90c511e-f827-488c-84ba-432c8f69561c> <http://mu.semte.ch/vocabularies/core/uuid> "d90c511e-f827-488c-84ba-432c8f69561c" .
 <http://data.vlaanderen.be/id/conceptscheme/BestuurseenheidClassificatieCode> <http://mu.semte.ch/vocabularies/core/uuid> "8d051880fe128d220e233f1a5130d629" .

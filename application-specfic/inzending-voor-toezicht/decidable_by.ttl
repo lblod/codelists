@@ -378,3 +378,11 @@
 # Besluit over budget(wijziging) OCMW-vereniging.
 # GEMEENTE
 <https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001>.
+
+# "Bijzonder Administratief Toezicht"
+# VGC
+<http://data.vlaanderen.be/id/concept/BesluitDocumentType/d60eb90b-926b-4c64-b87c-866c0cf92f0a> lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d90c511e-f827-488c-84ba-432c8f69561c>.
+
+# "Algemeen Toezicht"
+# VGC
+<http://data.vlaanderen.be/id/concept/BesluitDocumentType/f4b1b40a-4ac4-4e12-bdd2-84966f274edc> lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d90c511e-f827-488c-84ba-432c8f69561c>.

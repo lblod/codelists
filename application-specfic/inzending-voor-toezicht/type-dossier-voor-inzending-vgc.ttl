@@ -1,0 +1,11 @@
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/d60eb90b-926b-4c64-b87c-866c0cf92f0a>
+      a <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept>;
+      <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType>;
+      <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType>;
+      <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijzonder Administratief Toezicht" .
+
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType/f4b1b40a-4ac4-4e12-bdd2-84966f274edc>
+      a <http://www.w3.org/2000/01/rdf-schema#Class>, <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Algemeen Toezicht" .

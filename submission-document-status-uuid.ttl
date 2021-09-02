@@ -11,3 +11,6 @@
 
 <http://lblod.data.gift/concepts/faa5110a-fdb2-47fa-a0d2-118e5542ef05> <http://mu.semte.ch/vocabularies/core/uuid> "faa5110a-fdb2-47fa-a0d2-118e5542ef05" .
 <http://lblod.data.gift/concepts/faa5110a-fdb2-47fa-a0d2-118e5542ef05> a <http://mu.semte.ch/vocabularies/ext/SubmissionDocumentStatus> .
+
+<http://lblod.data.gift/concepts/6b7ae118-4653-48f2-9d9a-4712f8c30da9> <http://mu.semte.ch/vocabularies/core/uuid> "6b7ae118-4653-48f2-9d9a-4712f8c30da9" .
+<http://lblod.data.gift/concepts/6b7ae118-4653-48f2-9d9a-4712f8c30da9> a <http://mu.semte.ch/vocabularies/ext/SubmissionDocumentStatus> .

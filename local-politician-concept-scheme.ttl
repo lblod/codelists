@@ -5,7 +5,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 
 lblod:LocalPoliticianMandateRole rdf:type skos:ConceptScheme ;
-  dct:modified "2021-10-5"^^xsd:date ;
+  dct:modified "2021-10-05"^^xsd:date ;
   skos:prefLabel "Concept Scheme grouping Politician Mandate Roles for Local Authorities" .
 
 #  skos:prefLabel "Districtsraadslid" ;

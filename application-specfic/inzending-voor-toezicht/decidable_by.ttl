@@ -386,3 +386,7 @@
 # "Algemeen Toezicht"
 # VGC
 <http://data.vlaanderen.be/id/concept/BesluitDocumentType/f4b1b40a-4ac4-4e12-bdd2-84966f274edc> lblodBesluit:decidableBy <http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/d90c511e-f827-488c-84ba-432c8f69561c>.
+
+# "Vaststelling gemeenteweg"
+# GEMEENTE
+<https://data.vlaanderen.be/id/concept/BesluitType/f1fd8f88-95b0-4085-b766-008b5867d992>	<http://lblod.data.gift/vocabularies/besluit/decidableBy>	<http://data.vlaanderen.be/id/concept/BestuurseenheidClassificatieCode/5ab0e9b8a3b2ca7c5e000001> .

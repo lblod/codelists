@@ -147,6 +147,10 @@
 <https://data.vlaanderen.be/id/concept/BesluitType/bf72e38a-2c73-4484-b82f-c642a4c39d0c> <http://mu.semte.ch/vocabularies/core/uuid> "bf72e38a-2c73-4484-b82f-c642a4c39d0c" .
 
 # "Besluit over budget(wijziging) OCMW-vereniging."
- <https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> <http://mu.semte.ch/vocabularies/core/uuid> "70ae4d36-de0c-425d-9dbe-3b6deef8343c".
- 
+<https://data.vlaanderen.be/id/concept/BesluitType/70ae4d36-de0c-425d-9dbe-3b6deef8343c> <http://mu.semte.ch/vocabularies/core/uuid> "70ae4d36-de0c-425d-9dbe-3b6deef8343c".
+
+# Vaststelling gemeenteweg
+<https://data.vlaanderen.be/id/concept/BesluitType/f1fd8f88-95b0-4085-b766-008b5867d992>	<http://mu.semte.ch/vocabularies/core/uuid>	"f1fd8f88-95b0-4085-b766-008b5867d992" .
+
+
 <https://data.vlaanderen.be/id/conceptscheme/BesluitType> <http://mu.semte.ch/vocabularies/core/uuid> "da6076d5-145b-4e72-a75a-f7098b816ee1" .

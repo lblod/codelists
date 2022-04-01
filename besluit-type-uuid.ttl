@@ -169,3 +169,6 @@
 
 # "Collectieve motie van wantrouwen"
 <https://data.vlaanderen.be/id/concept/BesluitType/cb361927-1aab-4016-bd8a-1a84841391ba> <http://mu.semte.ch/vocabularies/core/uuid> "cb361927-1aab-4016-bd8a-1a84841391ba".
+
+# "Eindrekening"
+<https://data.vlaanderen.be/id/concept/BesluitType/54b61cbd-349f-41c4-9c8a-7e8e67d08347> <http://mu.semte.ch/vocabularies/core/uuid> "54b61cbd-349f-41c4-9c8a-7e8e67d08347".

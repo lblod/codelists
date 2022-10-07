@@ -35,5 +35,5 @@
 
 
 <http://lblod.data.gift/concept-schemes/c2e7699a-b543-443c-b8b2-b60bef8767dc> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-   <http://www.w3.org/2004/02/skos/core#prefLabel> "Authentic source"@en,
-     "Authentieke bron"@nl .
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Authentic source LEKP-report"@en,
+     "Authentieke bron LEKP-report"@nl .

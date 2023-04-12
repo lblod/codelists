@@ -1,6 +1,6 @@
 # besluit document type scheme
  <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "04dabf13-31ce-4424-8aa6-17a192cb6c6b".
- 
+
 <https://data.vlaanderen.be/id/concept/BesluitDocumentType/0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e> <http://mu.semte.ch/vocabularies/core/uuid> "0ee460b1-5ef4-4d4a-b5e1-e2d7c1d5086e" .
 
 <https://data.vlaanderen.be/id/concept/BesluitDocumentType/13fefad6-a9d6-4025-83b5-e4cbee3a8965> <http://mu.semte.ch/vocabularies/core/uuid> "13fefad6-a9d6-4025-83b5-e4cbee3a8965" .
@@ -23,3 +23,6 @@
 <https://data.vlaanderen.be/id/concept/BesluitDocumentType/2c9ada23-1229-4c7e-a53e-acddc9014e4e> <http://mu.semte.ch/vocabularies/core/uuid> "2c9ada23-1229-4c7e-a53e-acddc9014e4e" .
 
 <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "04dabf13-31ce-4424-8aa6-17a192cb6c6b" .
+
+# afwijking principes regiovorming
+<https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "cc831628-95a0-4874-bad5-cdf563896032" .

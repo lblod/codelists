@@ -25,4 +25,4 @@
 <https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "04dabf13-31ce-4424-8aa6-17a192cb6c6b" .
 
 # afwijking principes regiovorming
-<https://data.vlaanderen.be/id/conceptscheme/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "cc831628-95a0-4874-bad5-cdf563896032" .
+<https://data.vlaanderen.be/id/concept/BesluitDocumentType> <http://mu.semte.ch/vocabularies/core/uuid> "cc831628-95a0-4874-bad5-cdf563896032" .

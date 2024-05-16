@@ -36,6 +36,10 @@ lblod:LocalPoliticianMandateRole rdf:type skos:ConceptScheme ;
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000013> skos:topConceptOf lblod:LocalPoliticianMandateRole ;
   skos:inScheme lblod:LocalPoliticianMandateRole .
 
+# skos:prefLabel "Aangewezen Burgemeester"
+<http://data.vlaanderen.be/id/concept/BestuursfunctieCode/7b038cc40bba10bec833ecfe6f15bc7a> skos:topConceptOf lblod:LocalPoliticianMandateRole ;
+  skos:inScheme lblod:LocalPoliticianMandateRole .
+
 #  skos:prefLabel "Schepen" ;
 <http://data.vlaanderen.be/id/concept/BestuursfunctieCode/5ab0e9b8a3b2ca7c5e000014> skos:topConceptOf lblod:LocalPoliticianMandateRole ;
   skos:inScheme lblod:LocalPoliticianMandateRole .

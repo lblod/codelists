@@ -1,0 +1,24 @@
+<http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Publication submission statuses"@en,
+     "Status van ingediende publicaties"@nl .
+
+
+<http://lblod.data.gift/publication-submission-statuses/ongoing> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Lopend"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b> .
+
+<http://lblod.data.gift/publication-submission-statuses/failure> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Mislukking"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b> .
+
+<http://lblod.data.gift/publication-submission-statuses/success> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Succes"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b> .
+
+<http://lblod.data.gift/publication-submission-statuses/already-submitted> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Reeds ingediend"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/1a200dbb-bd3f-4ad8-afe8-17f02b72113b> .

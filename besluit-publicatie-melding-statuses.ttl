@@ -1,0 +1,24 @@
+<http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Besluit publication notification statuses"@en,
+     "Besluit publicatie melding status"@nl .
+
+
+<http://lblod.data.gift/besluit-publicatie-melding-statuses/ongoing> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Lopend"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7> .
+
+<http://lblod.data.gift/besluit-publicatie-melding-statuses/failure> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Mislukking"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7> .
+
+<http://lblod.data.gift/besluit-publicatie-melding-statuses/success> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Succes"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7> .
+
+<http://lblod.data.gift/besluit-publicatie-melding-statuses/already-submitted> a  <http://www.w3.org/2004/02/skos/core#Concept>;
+   <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7>;
+   <http://www.w3.org/2004/02/skos/core#prefLabel> "Reeds ingediend"@nl;
+   <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/707ead8d-33d9-4d98-b0ea-70bd7703c3d7> .

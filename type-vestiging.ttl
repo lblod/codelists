@@ -1,0 +1,62 @@
+<http://lblod.data.gift/concepts/f1381723dec42c0b6ba6492e41d6f5dd>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/f1381723dec42c0b6ba6492e41d6f5dd>	<http://www.w3.org/2004/02/skos/core#prefLabel>	"Maatschappelijke zetel" .
+<http://lblod.data.gift/concepts/f1381723dec42c0b6ba6492e41d6f5dd>	<http://mu.semte.ch/vocabularies/core/uuid>	"f1381723dec42c0b6ba6492e41d6f5dd" .
+<http://lblod.data.gift/concepts/f1381723dec42c0b6ba6492e41d6f5dd>	<http://www.w3.org/2004/02/skos/core#topConceptOf>	<http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .
+
+<http://lblod.data.gift/concepts/dd0418307e7038c0c3809e3ec03a0932>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/dd0418307e7038c0c3809e3ec03a0932>	<http://www.w3.org/2004/02/skos/core#prefLabel>	"Hoofdgebouw erediensten" .
+<http://lblod.data.gift/concepts/dd0418307e7038c0c3809e3ec03a0932>	<http://mu.semte.ch/vocabularies/core/uuid>	"dd0418307e7038c0c3809e3ec03a0932" .
+<http://lblod.data.gift/concepts/dd0418307e7038c0c3809e3ec03a0932>	<http://www.w3.org/2004/02/skos/core#inScheme>	<http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/dd0418307e7038c0c3809e3ec03a0932>	<http://www.w3.org/2004/02/skos/core#inScheme>	<http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .
+<http://lblod.data.gift/concepts/dd0418307e7038c0c3809e3ec03a0932>	<http://www.w3.org/2004/02/skos/core#topConceptOf>	<http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+
+<http://lblod.data.gift/concepts/57e8e5498ca84056b8a87631a26c90af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/57e8e5498ca84056b8a87631a26c90af> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeentehuis" .
+<http://lblod.data.gift/concepts/57e8e5498ca84056b8a87631a26c90af> <http://mu.semte.ch/vocabularies/core/uuid> "57e8e5498ca84056b8a87631a26c90af" .
+<http://lblod.data.gift/concepts/57e8e5498ca84056b8a87631a26c90af> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/57e8e5498ca84056b8a87631a26c90af> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/57e8e5498ca84056b8a87631a26c90af> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .
+
+<http://lblod.data.gift/concepts/15f2683c61b74541b27b64b4365806c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/15f2683c61b74541b27b64b4365806c7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provinciehuis" .
+<http://lblod.data.gift/concepts/15f2683c61b74541b27b64b4365806c7> <http://mu.semte.ch/vocabularies/core/uuid> "15f2683c61b74541b27b64b4365806c7" .
+<http://lblod.data.gift/concepts/15f2683c61b74541b27b64b4365806c7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/15f2683c61b74541b27b64b4365806c7> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/15f2683c61b74541b27b64b4365806c7> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .
+
+<http://lblod.data.gift/concepts/db13a289b78e42d19d8d1d269b61b18f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/db13a289b78e42d19d8d1d269b61b18f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Districtshuis" .
+<http://lblod.data.gift/concepts/db13a289b78e42d19d8d1d269b61b18f> <http://mu.semte.ch/vocabularies/core/uuid> "db13a289b78e42d19d8d1d269b61b18f" .
+<http://lblod.data.gift/concepts/db13a289b78e42d19d8d1d269b61b18f> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/db13a289b78e42d19d8d1d269b61b18f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/db13a289b78e42d19d8d1d269b61b18f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .
+
+<http://lblod.data.gift/concepts/0ed15289-1f3d-4172-8c46-0506de5aa2a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/0ed15289-1f3d-4172-8c46-0506de5aa2a3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoofdcommissariaat" .
+<http://lblod.data.gift/concepts/0ed15289-1f3d-4172-8c46-0506de5aa2a3> <http://mu.semte.ch/vocabularies/core/uuid> "0ed15289-1f3d-4172-8c46-0506de5aa2a3" .
+<http://lblod.data.gift/concepts/0ed15289-1f3d-4172-8c46-0506de5aa2a3> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/0ed15289-1f3d-4172-8c46-0506de5aa2a3> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/0ed15289-1f3d-4172-8c46-0506de5aa2a3> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .    
+
+<http://lblod.data.gift/concepts/dcc01338-842c-4fbd-ba68-3ca6f3af975c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/dcc01338-842c-4fbd-ba68-3ca6f3af975c> <http://mu.semte.ch/vocabularies/core/uuid> "dcc01338-842c-4fbd-ba68-3ca6f3af975c" .
+<http://lblod.data.gift/concepts/dcc01338-842c-4fbd-ba68-3ca6f3af975c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Correspondentieadres" .
+<http://lblod.data.gift/concepts/dcc01338-842c-4fbd-ba68-3ca6f3af975c> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/dcc01338-842c-4fbd-ba68-3ca6f3af975c> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .
+<http://lblod.data.gift/concepts/dcc01338-842c-4fbd-ba68-3ca6f3af975c> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+
+<http://lblod.data.gift/concepts/019ef8b6-ba27-7388-a5cc-faf74f357963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/019ef8b6-ba27-7388-a5cc-faf74f357963> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezoekadres" .
+<http://lblod.data.gift/concepts/019ef8b6-ba27-7388-a5cc-faf74f357963> <http://mu.semte.ch/vocabularies/core/uuid> "019ef8b6-ba27-7388-a5cc-faf74f357963" .
+<http://lblod.data.gift/concepts/019ef8b6-ba27-7388-a5cc-faf74f357963> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/019ef8b6-ba27-7388-a5cc-faf74f357963> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/019ef8b6-ba27-7388-a5cc-faf74f357963> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> . 
+
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lblod.data.gift/vocabularies/organisatie/TypeVestiging> .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ander administratief adres" .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://mu.semte.ch/vocabularies/core/uuid> "fbec5e94aba343b0a7361aca8a0c7d79" .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/f8319ccf40fc2a1697edc5cf7e03018f> .
+<http://lblod.data.gift/concepts/fbec5e94aba343b0a7361aca8a0c7d79> <http://www.w3.org/2004/02/skos/core#inScheme> <http://lblod.data.gift/concept-schemes/10caf4a4-1ff5-4c05-917e-56489910d68b> .

@@ -12,7 +12,9 @@
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/LokaalBestuur>;
-    skos:definition "Overheidsentiteiten binnen het lokaal bestuursniveau."@nl;
+    skos:definition 
+        "Overheidsentiteiten binnen het lokaal bestuursniveau."@nl,
+        "Government entities at the local government level."@en;
     vann:usageNote 
         """
         ### Samenvatting:
@@ -41,7 +43,9 @@
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Vereniging>;
-    skos:definition "Juridische of organisatorische entiteiten die onder een van volgende categorieën vallen: verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk, stichtingen, feitelijke verenigingen en afdelingen van koepelorganisaties."@nl;
+    skos:definition 
+        "Juridische of organisatorische entiteiten die onder een van volgende categorieën vallen: verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk, stichtingen, feitelijke verenigingen en afdelingen van koepelorganisaties."@nl,
+        "Legal or organizational entities that fall under one of the following categories: nonprofit associations, international nonprofit associations, foundations, de facto associations, and branches of umbrella organizations."@en;
     vann:usageNote
         """
         ### Samenvatting:
@@ -68,7 +72,9 @@
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Onderneming>;
-    skos:definition "Entiteiten die economische activiteiten uitoefenen."@nl;
+    skos:definition 
+        "Entiteiten die economische activiteiten uitoefenen."@nl,
+        "Entities that engage in economic activities."@en;
     vann:usageNote
         """
         ### Samenvatting:
@@ -91,7 +97,9 @@
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Burger>;
-    skos:definition "Een natuurlijke persoon die als individu gebruikmaakt van publieke dienstverlening, in een persoonlijke of niet-professionele hoedanigheid."@nl;
+    skos:definition 
+        "Een natuurlijke persoon die als individu gebruikmaakt van publieke dienstverlening, in een persoonlijke of niet-professionele hoedanigheid."@nl,
+        "A natural person who uses public services as an individual, in a personal or non-professional capacity."@en;
     vann:usageNote
         """
         ### Samenvatting:

@@ -11,6 +11,7 @@
     skos:prefLabel "Lokaal Bestuur"@nl, "Local administration"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
+    skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/LokaalBestuur>;
     skos:definition "Overheidsentiteiten binnen het lokaal bestuursniveau."@nl;
     vann:usageNote 
         """
@@ -39,6 +40,7 @@
     skos:prefLabel "Vereniging"@nl, "Association"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
+    skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Vereniging>;
     skos:definition "Juridische of organisatorische entiteiten die onder een van volgende categorieën vallen: verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk, stichtingen, feitelijke verenigingen en afdelingen van koepelorganisaties."@nl;
     vann:usageNote
         """
@@ -65,6 +67,7 @@
     skos:prefLabel "Onderneming"@nl, "Enterprise"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
+    skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Onderneming>;
     skos:definition "Entiteiten die economische activiteiten uitoefenen."@nl;
     vann:usageNote
         """
@@ -87,6 +90,7 @@
     skos:prefLabel "Burger"@nl, "Citizen"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
+    skos:exactMatch <https://productencatalogus.data.vlaanderen.be/id/concept/Doelgroep/Burger>;
     skos:definition "Een natuurlijke persoon die als individu gebruikmaakt van publieke dienstverlening, in een persoonlijke of niet-professionele hoedanigheid."@nl;
     vann:usageNote
         """

@@ -3,7 +3,7 @@
 <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934> a skos:ConceptScheme;
     <http://mu.semte.ch/vocabularies/core/uuid> "0f9c9346-bd6d-4677-9ffa-5b5089b60934";
     skos:prefLabel "Doelgroepen"@nl, "Target groups"@en;
-    skos:definition "Doelgroepen waarop een besluit zich richt."@nl, "Target groups"@en.
+    skos:definition "Doelgroepen"@nl, "Target groups"@en.
 
 <http://lblod.data.gift/id/concept/d2b67dac-6a8c-4314-990e-8fa87a12edfc> a skos:Concept;
     <http://mu.semte.ch/vocabularies/core/uuid> "d2b67dac-6a8c-4314-990e-8fa87a12edfc";

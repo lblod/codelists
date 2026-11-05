@@ -2,12 +2,12 @@
 
 <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934> a skos:ConceptScheme;
     <http://mu.semte.ch/vocabularies/core/uuid> "0f9c9346-bd6d-4677-9ffa-5b5089b60934";
-    skos:prefLabel "Target groups"@en;
-    skos:definition "Doelgroepen waarop een besluit zich richt."@nl.
+    skos:prefLabel "Doelgroepen"@nl, "Target groups"@en;
+    skos:definition "Doelgroepen waarop een besluit zich richt."@nl, "Target groups"@en.
 
 <http://lblod.data.gift/id/concept/d2b67dac-6a8c-4314-990e-8fa87a12edfc> a skos:Concept;
     <http://mu.semte.ch/vocabularies/core/uuid> "d2b67dac-6a8c-4314-990e-8fa87a12edfc";
-    skos:prefLabel "Lokaal Bestuur";
+    skos:prefLabel "Lokaal Bestuur"@nl, "Local administration"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:definition """Overheidsentiteiten binnen het lokaal bestuursniveau.
@@ -30,11 +30,11 @@ Alle lokale overheden, wanneer het besluit zich tot hen richt, bv. als aanvrager
 
 ### Voorbeelden:
 - Een lokaal bestuur als aanvrager of begunstigde: Het besluit richt zich tot lokale besturen, bv. een provinciaal reglement waarin een 'lokaal bestuur gelegen op het grondgebied van de provincie' een subsidie kan aanvragen.
-- Lokale besturen naast andere doelgroepen: Bv. een subsidie aan te vragen door 'een openbaar bestuur (behalve provinciebesturen) of hun verzelfstandigde agentschappen, een stichting of een vereniging zonder winstoogmerk'; hier gelden zowel Lokaal Bestuur als Vereniging.""".
+- Lokale besturen naast andere doelgroepen: Bv. een subsidie aan te vragen door 'een openbaar bestuur (behalve provinciebesturen) of hun verzelfstandigde agentschappen, een stichting of een vereniging zonder winstoogmerk'; hier gelden zowel Lokaal Bestuur als Vereniging."""@nl.
 
 <http://lblod.data.gift/id/concept/44a75e92-3733-4d1d-8737-ca81cc608678> a skos:Concept;
     <http://mu.semte.ch/vocabularies/core/uuid> "44a75e92-3733-4d1d-8737-ca81cc608678";
-    skos:prefLabel "Vereniging";
+    skos:prefLabel "Vereniging"@nl, "Association"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:definition """Juridische of organisatorische entiteiten die onder een van volgende categorieën vallen: verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk, stichtingen, feitelijke verenigingen en afdelingen van koepelorganisaties.
@@ -55,11 +55,11 @@ Organisaties met een belangeloos, niet-commercieel doel, in een van de genoemde 
 ### Voorbeelden:
 - Seniorenverenigingen: Bv. een jaarlijkse toelage voor seniorenverenigingen ter ondersteuning van hun werking.
 - Particuliere jeugdverenigingen en jeugdwerk: Jeugdwerk dat opgericht is door een privé-initiatief, zonder beroepsdoeleinden of winstoogmerk.
-- Lokale verenigingen als aanvrager van een subsidie: Bv. een subsidie voor een publicatie over geschiedenis of erfgoed, aan te vragen door een vereniging zonder winst of commercieel belang.""".
+- Lokale verenigingen als aanvrager van een subsidie: Bv. een subsidie voor een publicatie over geschiedenis of erfgoed, aan te vragen door een vereniging zonder winst of commercieel belang."""@nl.
 
 <http://lblod.data.gift/id/concept/2242298b-7f1b-4bc2-b685-5771522987b7> a skos:Concept;
     <http://mu.semte.ch/vocabularies/core/uuid> "2242298b-7f1b-4bc2-b685-5771522987b7";
-    skos:prefLabel "Onderneming";
+    skos:prefLabel "Onderneming"@nl, "Enterprise"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:definition """Entiteiten die economische activiteiten uitoefenen.
@@ -76,11 +76,11 @@ Natuurlijke personen, rechtspersonen en organisaties zonder rechtspersoonlijkhei
 ### Voorbeelden:
 - Handelaars: Wie een nieuwe handelszaak uitbaat of een bestaande overneemt, bv. een premie voor lokale handel met een voor het publiek toegankelijke winkel.
 - Starters en startende ondernemers: Zelfstandigen of eenmanszaken in de eerste periode na inschrijving of oprichting, bv. een starterspremie.
-- Rechtspersonen en natuurlijke personen met een ondernemingsnummer en een vestiging in de gemeente: Bv. de doelgroep van een subsidiereglement voor ondernemers in de gemeente.""".
+- Rechtspersonen en natuurlijke personen met een ondernemingsnummer en een vestiging in de gemeente: Bv. de doelgroep van een subsidiereglement voor ondernemers in de gemeente."""@nl.
 
 <http://lblod.data.gift/id/concept/9aa8c940-4a25-4571-8063-9412494a10a7> a skos:Concept;
     <http://mu.semte.ch/vocabularies/core/uuid> "9aa8c940-4a25-4571-8063-9412494a10a7";
-    skos:prefLabel "Burger";
+    skos:prefLabel "Burger"@nl, "Citizen"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:definition """Een natuurlijke persoon die als individu gebruikmaakt van publieke dienstverlening, in een persoonlijke of niet-professionele hoedanigheid.
@@ -95,4 +95,4 @@ Enkel de natuurlijke persoon zelf, als individu of als lid van een gezin. Niet e
 ### Voorbeelden:
 - Natuurlijke personen die als eigenaar of vruchtgebruiker een aanvraag indienen: Particulieren die in eigen naam een tegemoetkoming of toelating aanvragen, bv. voor een belendend perceel.
 - Gezinnen: Een alleenstaande, samenwonende personen of bewoners van een collectieve woongelegenheid, bv. wanneer een reglement per gezin geldt.
-- Inwoners die identiteits- of verblijfsdocumenten aanvragen: Dienstverlening aan personen, bv. de aflevering van identiteitskaarten, verblijfsdocumenten of attesten van immatriculatie.""".
+- Inwoners die identiteits- of verblijfsdocumenten aanvragen: Dienstverlening aan personen, bv. de aflevering van identiteitskaarten, verblijfsdocumenten of attesten van immatriculatie."""@nl.

@@ -1,4 +1,5 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix vann: <http://purl.org/vocab/vann/>.
 
 <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934> a skos:ConceptScheme;
     <http://mu.semte.ch/vocabularies/core/uuid> "0f9c9346-bd6d-4677-9ffa-5b5089b60934";
@@ -10,8 +11,9 @@
     skos:prefLabel "Lokaal Bestuur"@nl, "Local administration"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
-    skos:definition """Overheidsentiteiten binnen het lokaal bestuursniveau.
-
+    skos:definition "Overheidsentiteiten binnen het lokaal bestuursniveau."@nl;
+    vann:usageNote 
+        """
 ### Samenvatting:
 Alle lokale overheden, wanneer het besluit zich tot hen richt, bv. als aanvrager of begunstigde. Een organisatie die hieronder valt is nooit een vereniging, ook niet als 'vereniging' in de naam staat (bv. een welzijnsvereniging of projectvereniging is juridisch een lokaal bestuur).
 ### Binnen scope:
@@ -37,8 +39,9 @@ Alle lokale overheden, wanneer het besluit zich tot hen richt, bv. als aanvrager
     skos:prefLabel "Vereniging"@nl, "Association"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
-    skos:definition """Juridische of organisatorische entiteiten die onder een van volgende categorieën vallen: verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk, stichtingen, feitelijke verenigingen en afdelingen van koepelorganisaties.
-
+    skos:definition "Juridische of organisatorische entiteiten die onder een van volgende categorieën vallen: verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk, stichtingen, feitelijke verenigingen en afdelingen van koepelorganisaties."@nl;
+    vann:usageNote 
+        """
 ### Samenvatting:
 Organisaties met een belangeloos, niet-commercieel doel, in een van de genoemde juridische vormen. In besluiten verschijnen ze meestal als ontvanger van een toelage of subsidie voor hun werking (bv. senioren, jeugd, erfgoed).
 
@@ -62,8 +65,9 @@ Organisaties met een belangeloos, niet-commercieel doel, in een van de genoemde 
     skos:prefLabel "Onderneming"@nl, "Enterprise"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
-    skos:definition """Entiteiten die economische activiteiten uitoefenen.
-
+    skos:definition "Entiteiten die economische activiteiten uitoefenen."@nl;
+    vann:usageNote
+        """
 ### Samenvatting:
 Natuurlijke personen, rechtspersonen en organisaties zonder rechtspersoonlijkheid die een economische activiteit uitoefenen, d.w.z. op duurzame wijze goederen of diensten aanbieden op een markt: een industriële, ambachtelijke, handels-, diensten-, landbouw- of tuinbouwactiviteit. Het Wetboek van economisch recht rekent ook vzw's, stichtingen en sommige overheden tot de ondernemingen; voor deze codelijst vallen entiteiten die onder Vereniging of Lokaal Bestuur vallen echter niet onder Onderneming.
 
@@ -83,8 +87,9 @@ Natuurlijke personen, rechtspersonen en organisaties zonder rechtspersoonlijkhei
     skos:prefLabel "Burger"@nl, "Citizen"@en;
     skos:inScheme <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
     skos:topConceptOf <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934>;
-    skos:definition """Een natuurlijke persoon die als individu gebruikmaakt van publieke dienstverlening, in een persoonlijke of niet-professionele hoedanigheid.
-
+    skos:definition "Een natuurlijke persoon die als individu gebruikmaakt van publieke dienstverlening, in een persoonlijke of niet-professionele hoedanigheid."@nl;
+    vann:usageNote
+        """
 ### Samenvatting:
 Enkel de natuurlijke persoon zelf, als individu of als lid van een gezin. Niet een persoon die optreedt als ondernemer, of die bevoegd is om te handelen namens een vereniging of een lokaal bestuur.
 

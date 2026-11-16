@@ -3,7 +3,7 @@
 
 <http://lblod.data.gift/id/conceptscheme/0f9c9346-bd6d-4677-9ffa-5b5089b60934> a skos:ConceptScheme;
     <http://mu.semte.ch/vocabularies/core/uuid> "0f9c9346-bd6d-4677-9ffa-5b5089b60934";
-    skos:prefLabel "Doelgroepen"@nl, "Target audiences"@en;
+    skos:prefLabel "Doelgroep"@nl, "Target audience"@en;
     skos:definition 
         "Doelgroep voor een (overheidsgerelateerd) object, namelijk de groep voor wie het object is gemaakt."@nl, 
         "Intended audience for a (government related) object, i.e. the group for whom the object was created."@en.
